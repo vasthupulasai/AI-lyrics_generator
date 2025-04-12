@@ -105,4 +105,4 @@ Feel free to fork this project, create a new branch, and open a pull request wit
 
 ---
 ### Author
-Vasthupulapurnasai Vasthupulapurna@gmai.com
+Vasthupulapurnasai Vasthupulapurna@gmail.com
