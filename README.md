@@ -1,7 +1,3 @@
-Sure! Here’s a detailed README template for your **AI Lyrics Generator** project using **GPT-Neo** and **Streamlit**:
-
----
-
 # 🎶 AI Lyrics Generator
 
 An AI-powered web app that generates song lyrics based on user input including theme keywords, genre, language, tempo, and scale. The app uses **GPT-Neo** to generate creative and multilingual lyrics and **Streamlit** for the interactive web interface.
